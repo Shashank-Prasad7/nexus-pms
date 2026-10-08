@@ -4,7 +4,11 @@ A production-grade, cross-platform Project and Task Management System designed f
 
 <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/db640c84-2eee-435e-8349-70f8b8b3b7be" />  
 
-## Demo : https://youtu.be/Z7ug5FsuElg  
+## Live Demo
+
+- **Web app:** https://nexus-pms-six.vercel.app
+- **Demo video:** [Watch the project walkthrough](https://youtu.be/Z7ug5FsuElg)
+- **API health:** https://nexus-pms-backend.onrender.com/api/health
 
 ---
 
