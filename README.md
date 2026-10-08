@@ -2,6 +2,9 @@
 
 A production-grade, cross-platform Project and Task Management System designed for modern product teams. A single unified backend serves both the responsive web frontend and the native mobile app, allowing users to register once and manage their projects and tasks seamlessly across all devices with real-time updates and secure token storage.
 
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/db640c84-2eee-435e-8349-70f8b8b3b7be" />
+
+
 ---
 
 ## 🏗️ Architecture Overview
